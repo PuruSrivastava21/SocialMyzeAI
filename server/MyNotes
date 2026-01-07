@@ -1,0 +1,8 @@
+express to create backend server
+dotenv to store env variable
+cors to connect backend to frontend
+axios to make api calls
+cloudinary to store images on cloud
+multer to upload images using this package
+
+we will use neon to store our ai generated data. it is a fully managed serverless postgres database. features like branching and auto scaling. using free plan 
